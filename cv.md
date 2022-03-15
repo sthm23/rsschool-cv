@@ -1,6 +1,6 @@
-#Tukhtamishev Sanjar
+# Tukhtamishev Sanjar
 
-###Beginning Frontend Developer
+### Beginning Frontend Developer
 ------
 - Location: Tashkent, Uzbekistan
 - Phone number: +998 (99) 999-6973
@@ -26,7 +26,7 @@
 
 ## Code Example
 
-`function deepCount(a){
+function deepCount(a){
     let counter = 0;
 
     for(let i = 0; i<a.length; i++){
@@ -39,7 +39,7 @@
     }
     
     return counter;
-}` 
+} 
 
 ---------
 
