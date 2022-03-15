@@ -60,3 +60,19 @@ Beginning Frontend Developer
 ---------
 
 ## Projects
+
+- music player
+https://rolling-scopes-school.github.io/sthm23-JSFEPRESCHOOL/music-player/
+
+- image galery 
+https://rolling-scopes-school.github.io/sthm23-JSFEPRESCHOOL/image-galery/
+
+- memory game
+https://rolling-scopes-school.github.io/sthm23-JSFEPRESCHOOL/game-js/
+
+-------
+
+###### 2021 by Sanjar Tukhtamishev 
+https://github.com/sthm23
+
+https://rs.school/js/
