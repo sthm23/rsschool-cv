@@ -26,7 +26,8 @@
 
 ## Code Example
 
-function deepCount(a){
+function deepCount(a) {
+
     let counter = 0;
 
     for(let i = 0; i<a.length; i++){
@@ -46,8 +47,9 @@ function deepCount(a){
 ## Education
 
 - University of St. Petersburg State University of Technology (Information of technology)
-- Udemy.com (course of JS+React with Ivan Petrechenko) In progress
-- Rollin Scores School JS/Frontend Developer In progress
+- Udemy.com (course of JS+React) In progress
+- Rollin Scores School JS/Frontend Developer Stage#0
+- Rollin Scores School JS/Frontend Developer Stage#1 In progress
 
 ---------
 
